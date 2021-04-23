@@ -1,2 +1,2 @@
-# Site-superP
-Exercício sugerido pela DevMedia
+Proposta sugerida pela Devmedia
+Criação de uma pagina html de super promoção de computador e notebook
